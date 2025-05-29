@@ -48,8 +48,8 @@ Meu objetivo é atuar de forma sólida como Analista de Qualidade, contribuindo 
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=celiapaivab&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=celiapaivab&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="150"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiapaivab&layout=compact&theme=default" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiapaivab&layout=compact&theme=default" alt="Top Languages" height="150"/>
 
 </div>
