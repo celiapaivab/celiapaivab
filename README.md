@@ -36,6 +36,16 @@ Meu objetivo é atuar de forma sólida como Analista de Qualidade, contribuindo 
 
 <br>
 
+## 📁 Portfólio de Repositórios
+
+Para acessar meu índice completo com todos os projetos organizados por curso e categoria, acesse:  
+[📂 README Índice](./README-INDICE.md)
+
+
+<br>
+
+<br>
+
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celia-paiva/)
