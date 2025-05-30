@@ -8,7 +8,7 @@ Atualmente, estou em formação na área de QA na TripleTen, desenvolvendo habil
 
 Meu objetivo é atuar de forma sólida como Analista de Qualidade, contribuindo para a entrega de softwares robustos e funcionais.
 
-
+ATUALIZADO 
 <br>
 
 <br>
