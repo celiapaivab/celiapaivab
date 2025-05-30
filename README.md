@@ -27,7 +27,7 @@ Meu objetivo é atuar de forma sólida como Analista de Qualidade, contribuindo 
 ## 📁 Portfólio de Repositórios
 
 Para acessar meu índice completo com todos os projetos organizados por curso e categoria, acesse:  
-[📂 README Índice](./README-INDICE.md)
+[📂 README Índice](https://github.com/celiapaivab/readme-indice)
 
 
 <br>
