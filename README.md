@@ -14,9 +14,9 @@ Meu objetivo é atuar de forma sólida como Analista de Qualidade, contribuindo 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 25px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start">
   
-  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,js,react,vite,mysql,py,pycharm,selenium,postman,androidstudio,figma&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,js,nodejs,react,vite,mysql,py,pycharm,selenium,postman,androidstudio,figma&theme=dark)](https://skillicons.dev)
   
 </div>
 
