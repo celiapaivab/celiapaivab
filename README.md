@@ -6,7 +6,7 @@ Tenho conhecimentos prévios em HTML, CSS, JavaScript e React.
 
 Atualmente, estou em formação na área de QA na TripleTen, desenvolvendo habilidades em testes manuais, testes de API com Postman, testes em aplicativos móveis, noções básicas de banco de dados, Python, testes automatizados e Selenium. 
 
-Meu objetivo é atuar de forma sólida como Analista de Qualidade, contribuindo para a entrega de softwares robustos e funcionais.
+Meu objetivo é atuar de forma sólida como **QA**, contribuindo para a entrega de softwares robustos e funcionais.
 
 <br>
 
@@ -16,9 +16,11 @@ Meu objetivo é atuar de forma sólida como Analista de Qualidade, contribuindo 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start">
   
-  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,js,nodejs,react,vite,mysql,py,pycharm,selenium,postman,androidstudio,figma,idea&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,html,css,js,nodejs,react,vite,mysql,py,selenium,postman,androidstudio,figma&theme=dark)](https://skillicons.dev)
   
 </div>
+
+Git • GitHub • VS Code • IntelliJ IDEA • PyCharm • HTML • CSS • JavaScript • Node.js • React • Vite • MySQL • Python • Selenium • Postman • Android Studio • Figma
 
 <br>
 
