@@ -2,11 +2,13 @@
 
 ![QA Analyst](https://img.shields.io/badge/QA-Analyst-blue)
 ![QA Tester](https://img.shields.io/badge/QA-Tester-blue)
-![Automation](https://img.shields.io/badge/Automated_Testing-Selenium%20%7C%20Python-green)
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-functional-lightgrey)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-Functional%20%7C%20Regression%20%7C%20Exploratory-lightgrey)
+![Automated Testing](https://img.shields.io/badge/Automated_Testing-Selenium%20%7C%20Cypress-green)
+![BDD](https://img.shields.io/badge/BDD-Behave-lightblue)
 ![Postman](https://img.shields.io/badge/API_Testing-Postman-orange?logo=postman&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celia-paiva/)
 ![Status](https://img.shields.io/badge/Always-Learning-009688)
+
 
 
 ## ✨ About Me
@@ -27,11 +29,11 @@ My goal is to advance as a **QA professional**, helping deliver reliable and fun
 
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start">
 
-  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,html,css,js,nodejs,react,vite,mysql,py,selenium,postman,androidstudio,figma&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,html,css,js,nodejs,react,vite,mysql,py,selenium,cypress,postman,androidstudio,figma&theme=dark)](https://skillicons.dev)
 
 </div>
 
-Git • GitHub • VS Code • IntelliJ IDEA • PyCharm • HTML • CSS • JavaScript • Node.js • React • Vite • MySQL • Python • Selenium • Postman • Android Studio • Figma
+Git • GitHub • VS Code • IntelliJ IDEA • PyCharm • HTML • CSS • JavaScript • Node.js • React • Vite • MySQL • Python • Selenium • Cypress • Postman • Android Studio • Figma
 
 <br>
 
