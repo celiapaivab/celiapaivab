@@ -1,13 +1,12 @@
 # 👩‍💻 Celia Bruno — QA & Tester
 
-![QA Analyst](https://img.shields.io/badge/QA-Analyst-blue)
-![QA Tester](https://img.shields.io/badge/QA-Tester-blue)
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-Functional%20%7C%20Regression%20%7C%20Exploratory-lightgrey)
-![Automated Testing](https://img.shields.io/badge/Automated_Testing-Selenium%20%7C%20Cypress-green)
-![BDD](https://img.shields.io/badge/BDD-Behave-lightblue)
-![Postman](https://img.shields.io/badge/API_Testing-Postman-orange?logo=postman&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celia-paiva/)
-![Status](https://img.shields.io/badge/Always-Learning-009688)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celia-bruno/) 
+![Role](https://img.shields.io/badge/QA-Analyst%20%7C%20Tester-4B9CD3) 
+
+![Testing Types](https://img.shields.io/badge/Testing-Functional%20%7C%20Regression%20%7C%20Exploratory-lightgrey) 
+![Test Automation](https://img.shields.io/badge/Test_Automation-Cypress%20%7C%20Selenium-28A745) 
+![API Testing](https://img.shields.io/badge/API_Testing-Postman%20%7C%20Supertest-FF6C37?logo=postman&logoColor=white) 
+![Performance Testing](https://img.shields.io/badge/Performance_Testing-K6-7D64FF?logo=k6&logoColor=white)
 
 
 
@@ -47,13 +46,16 @@ To access my complete index with all projects organized by course and category, 
 
 ## 📫 Where to Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celia-paiva/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Celia%20Bruno-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celia-bruno/)
+
 
 <br>
 
 ## 📊 GitHub Stats
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
+
+
 
   <img src="https://github-readme-stats.vercel.app/api?username=celiapaivab&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="150"/>
 
